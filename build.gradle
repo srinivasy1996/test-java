@@ -4,7 +4,7 @@ plugins {
 }
 
 application {
-    mainClassName = 'com.example' // Replace with your main class name
+    mainClassName = 'Main' // Replace with your main class name
 }
 
 repositories {
