@@ -4,7 +4,7 @@ plugins {
 }
 
 application {
-    mainClassName = 'Main' // Replace with your main class name
+    mainClassName = 'com.example.Main'
 }
 
 repositories {
@@ -12,5 +12,5 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.sparkjava:spark-core:2.9.3' // Spark Framework
+    implementation 'com.sparkjava:spark-core:2.9.3'
 }
